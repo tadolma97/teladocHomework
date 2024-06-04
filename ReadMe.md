@@ -16,10 +16,12 @@ There was one drug interaction that was listed as "contraindication". I took the
     There is a major interaction between sildenafil and lovastatin. The metabolism of Sildenafil can be decreased when combined with Lovastatin.
 
 
-# Packages Used
+## Packages Used
 inquirer 
-npm i inquirer
 
-# Getting Started
+`npm i inquirer`
+
+## Getting Started
 This app was built using Node.js
+
 To launch this app run `node .` in your terminal. 
